@@ -1,0 +1,4 @@
+<table><tr><td style="text-align: center;"><canvas id="canvas_tt631da1b838aff" width="150" height="150"></canvas></td></tr>
+<tr><td style="text-align: center; font-weight: bold"><a href="http://24timezones.com/ja_clock/japan_time.php" style="text-decoration: none" class="clock24" id="tz24-1662886328-cc13821-eyJiZ2NvbG9yIjoiMDAwMDY2IiwibGFuZyI6ImphIiwidHlwZSI6ImEiLCJzaXplIjoiMTUwIiwiY2FudmFzX2lkIjoiY2FudmFzX3R0NjMxZGExYjgzOGFmZiJ9" title="日本現在時刻" target="_blank">日本現在時刻</a></td></tr>
+</table>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
